@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Cesar",
+    "SobreNome": "Augusto",
+    "Telefone": "300",
+    "RU": 80
+  },
+  {
+    "Id": 2,
+    "Nome": "Elba",
+    "SobreNome": "Regina",
+    "Telefone": "99996658",
+    "RU": 102030
+  },
+  {
+    "Id": 3,
+    "Nome": "maoel",
+    "SobreNome": "Silva",
+    "Telefone": "98562147",
+    "RU": 805070
+  },
+  {
+    "Id": 4,
+    "Nome": "Elisama",
+    "SobreNome": "Linda",
+    "Telefone": "32165465",
+    "RU": 231
+  },
+  {
+    "Id": 5,
+    "Nome": "Xiquinha",
+    "SobreNome": "cachorrinha",
+    "Telefone": "8454",
+    "RU": 66
+  },
+  {
+    "Id": 6,
+    "Nome": "norte",
+    "SobreNome": "vagabumdo",
+    "Telefone": "987498",
+    "RU": 32
+  },
+  {
+    "Id": 7,
+    "Nome": "Elba",
+    "SobreNome": "Regina",
+    "Telefone": "88888888",
+    "RU": 300
+  },
+  {
+    "Id": 8,
+    "Nome": "Zaca",
+    "SobreNome": "ferreira",
+    "Telefone": "5664312",
+    "RU": 500
+  },
+  {
+    "Id": 9,
+    "Nome": "Cesar",
+    "SobreNome": "Augusto",
+    "Telefone": "22",
+    "RU": 20
+  }
+]

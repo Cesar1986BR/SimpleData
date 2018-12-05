@@ -1,0 +1,62 @@
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\WebApp.dll.config
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\WebApp.dll
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\WebApp.pdb
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\System.Web.Http.dll
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\System.Web.Http.xml
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\Users\cesar\source\repos\WebApp\WebApp\obj\Debug\WebApp.csprojResolveAssemblyReference.cache
+C:\Users\cesar\source\repos\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\Users\cesar\source\repos\WebApp\WebApp\obj\Debug\WebApp.pdb
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\System.Web.Cors.dll
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+C:\Users\cesar\source\repos\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+E:\WebApi Site Alunos\WebApp\WebApp\bin\WebApp.dll.config
+E:\WebApi Site Alunos\WebApp\WebApp\bin\WebApp.dll
+E:\WebApi Site Alunos\WebApp\WebApp\bin\WebApp.pdb
+E:\WebApi Site Alunos\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WebApi Site Alunos\WebApp\WebApp\bin\Newtonsoft.Json.dll
+E:\WebApi Site Alunos\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+E:\WebApi Site Alunos\WebApp\WebApp\bin\System.Web.Cors.dll
+E:\WebApi Site Alunos\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+E:\WebApi Site Alunos\WebApp\WebApp\bin\System.Web.Http.dll
+E:\WebApi Site Alunos\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+E:\WebApi Site Alunos\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WebApi Site Alunos\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+E:\WebApi Site Alunos\WebApp\WebApp\bin\System.Web.Http.xml
+E:\WebApi Site Alunos\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+E:\WebApi Site Alunos\WebApp\WebApp\bin\Newtonsoft.Json.xml
+E:\WebApi Site Alunos\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+E:\WebApi Site Alunos\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+E:\WebApi Site Alunos\WebApp\WebApp\obj\Debug\WebApp.dll
+E:\WebApi Site Alunos\WebApp\WebApp\obj\Debug\WebApp.pdb
+E:\WebApi Site Alunos\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+E:\WebApi Site Alunos\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\WebApp.dll.config
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\WebApp.dll
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\WebApp.pdb
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\Newtonsoft.Json.dll
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\System.Web.Cors.dll
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\System.Web.Http.dll
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\System.Web.Http.xml
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\Newtonsoft.Json.xml
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\obj\Debug\WebApp.dll
+C:\GITHUB\SimpleDataTAble\SimpleDataTable\WebApp\WebApp\obj\Debug\WebApp.pdb
